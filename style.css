@@ -1,1 +1,28 @@
+h1
+{
+border: 2px solid white;
+text-align: center;
+color:  white;
+background-color: Black;
 
+}
+h3
+{
+
+text-align: right;
+background-color: LigthGrey;
+}
+
+
+
+body
+{
+background-color: grey;
+
+color: white;
+}
+
+<!--
+<h1 style="border:2px solid Tomato;">Optics Simulation</h1>
+border: 2px solid powderblue;
+-->
