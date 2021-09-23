@@ -1,0 +1,28 @@
+
+canvas
+{
+    background: grey;
+    border: 1px solid rgb(255, 255, 255);
+    height: 80%;
+    width: 100%;
+}
+
+body
+{
+    margin: 0;
+    background: black;   
+}
+
+head{
+    background-color: black;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+}
+a
+{
+    color: grey;
+}

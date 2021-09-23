@@ -13,16 +13,13 @@ text-align: right;
 background-color: LigthGrey;
 }
 
-
+a{
+    color: white;
+}
 
 body
 {
 background-color: grey;
-
+text-align: center;
 color: white;
 }
-
-<!--
-<h1 style="border:2px solid Tomato;">Optics Simulation</h1>
-border: 2px solid powderblue;
--->
